@@ -1,2 +1,4 @@
 # Hello-World-4870
-CIs 4870 Demo for GitHub
+CIS 4870 Demo for GitHub
+
+This is a demo for the CIS 4870 Class.
